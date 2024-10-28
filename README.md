@@ -117,7 +117,7 @@ int main()
 
 
 ## OUTPUT
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/35c83809-59a0-4626-ac5a-fc9b937ed452)
 
 
 
